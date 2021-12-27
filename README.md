@@ -1,1 +1,1 @@
-# rssschool-cv
+https://alinawuw.github.io/rsschool-cv/cv
