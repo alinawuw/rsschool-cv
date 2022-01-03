@@ -1,0 +1,61 @@
+.wrapper {
+    background-color: brown;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    -webkit-box-shadow: -26px 21px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: -26px 21px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: -26px 21px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.short-info {
+    width: 25%;
+    background-color: burlywood;
+    padding: 15px;
+}
+
+.main-info {
+    min-height: 100%;
+    width: 75%;
+    background-color: #afb7e7;
+    color: #4c60d1;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ava {
+    width: 100%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.where-to-find-me {
+    text-align: left;
+    padding-left: 25px;
+}
+
+.skills-list {
+    text-align: left;
+    padding-left: 25px;
+}
+
+.languages {
+    text-align: left;
+    padding-left: 25px;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.footer-link {
+    margin: 10px;
+}
+
+.footer-logo {
+    width:10%;
+}
