@@ -52,10 +52,10 @@ footer {
     margin-top: auto;
 }
 
-footer > a {
+.footer-link {
     margin: 10px;
 }
 
-footer > a > img {
-    width:10%
+.footer-logo {
+    width:10%;
 }
